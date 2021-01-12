@@ -3,7 +3,7 @@ name:just test
 on:
   push:
     branches:
-      - ubinuxv2021.01 
+      - ubinuxv2020.11 
     paths-ignore:
       - README.md
       - LICENSE
